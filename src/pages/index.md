@@ -6,7 +6,7 @@ title: 年年有福 巳巳如意
 
 # “美好”的本质是“真实”而非“完美”。痛苦、荒诞、非理性才是人类独有的“超能力” ​​​
 
-[posts](/TEST)
+[POSTS-TEST](/TEST)
 
 [Github-IM](https://github.com/ChaoWango)
 
