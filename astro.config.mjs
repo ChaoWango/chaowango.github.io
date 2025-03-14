@@ -4,7 +4,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Lionlifei.github.io',
-  base: '/',
+  site: 'https://Lionlifei.github.io/',
   integrations: [tailwind()]
 });
