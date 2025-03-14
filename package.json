@@ -1,0 +1,20 @@
+{
+  "name": "chao",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@astrojs/tailwind": "^6.0.0",
+    "@fontsource/jetbrains-mono": "^5.0.17",
+    "astro": "^5.4.3",
+    "tailwindcss": "^3.0.24",
+    "typescript": "^5.2.2"
+  }
+}
