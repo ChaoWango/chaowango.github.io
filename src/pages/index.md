@@ -2,8 +2,6 @@
 layout: ../layouts/Layout.astro
 title: Recording
 ---
-<!-- Markdown Preview - https://dillinger.io/ -->
-
 # “无限进步” ​​​
 
 # “一切安好” ​​​
