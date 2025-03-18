@@ -2,7 +2,6 @@
 layout: ../layouts/Layout.astro
 title: 歌单
 ---
-<!-- Markdown Preview - https://dillinger.io/ -->
 
 天哪，你能想象吗 ??
 <br>
