@@ -1,6 +1,5 @@
 ---
 layout: ../layouts/Layout.astro
-title: Recording
 ---
 # “无限进步” ​​​
 
